@@ -1,6 +1,9 @@
 # Business-360-Power-BI
 AtliQ Hardware has grown rapidly in recent years, and they have decided to implement data analytics using PowerBi in their company for the first time to surpass their competitors in the market and make data-driven decisions. This project hopes to answer stakeholders' questions about all aspects of finance, sales, marketing, and supply chain.
 
+PowerBI Report Download:  
+https://github.com/MdAbdulMuktadir/Business-360-Power-BI/releases/download/v1.0/Business.360.Power.BI.pbix  
+
 # Tech stacks  
 SQL  
 PowerBi Desktop  
